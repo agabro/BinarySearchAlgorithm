@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class BinarySearch {
     public static void main(String[] args) {
         int[] sortedArray = {5, 10, 15, 20, 30, 54, 76, 89, 111, 123};
